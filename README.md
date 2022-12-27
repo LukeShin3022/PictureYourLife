@@ -1,29 +1,35 @@
 <!-- React-router-dom -->
 <!-- JQuery -->
 
-# Getting Started with Create React App
+# Picture UR Life Project
+This project was PHP with React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+1. Create react project
+### `npx create-react-app`
 
+2. install package
+### `npm install axios`
+
+3. In the project directory, you can run:
 ### `npm start`
 
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+# ![PURLHome](https://user-images.githubusercontent.com/107653868/209731541-1006758f-850c-45df-80fc-d8f8ba3b630a.png)
+# Picture Your Life
 <table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
+  <tr>
+    <td>
+      Picture UR Life is a web service that saves pictures of my life in the form of a gallery that I want to record.
+    </td>
+  </tr>
 </table>
 
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+Here is a working live demo :  
 
 
 ## Site
@@ -41,16 +47,7 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-
-
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
+## Usage 
 
 ### Development
 Want to contribute? Great!
@@ -58,39 +55,79 @@ Want to contribute? Great!
 To fix a bug or enhance an existing module, follow these steps:
 
 - Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
+- Create a new branch (`git checkout -b "Branch Name"`)
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
+- Commit your changes (`git commit -m "Comments"`)
+- Push to the branch (`git push origin "Branch Name"`)
 - Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) - React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components
+- [PHP](https://en.wikipedia.org/wiki/PHP) - PHP is a general-purpose scripting language geared toward web development.
+- [Mysql](https://en.wikipedia.org/wiki/MySQL) - MySQL is an open-source relational database management system (RDBMS)
 
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
----|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+<table>
+  <thead>
+    <tr>
+      <th>
+        Role
+      </th>
+      <th>
+        Name
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Leader
+      </td>
+      <td>
+        Linwen
+      </td>
+    </tr>
+    <tr>
+      <td>
+        member
+      </td>
+      <td>
+        Jun
+      </td>
+    </tr>
+    <tr>
+      <td>
+        member
+      </td>
+      <td>
+        Marcelo
+      </td>
+    </tr>
+    <tr>
+      <td>
+        member
+      </td>
+      <td>
+        taka
+      </td>
+    </tr>
+    <tr>
+      <td>
+        member
+      </td>
+      <td>
+        Luke(me)
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
+## License
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+PURL © 2022 [PURL Project Team]
 
