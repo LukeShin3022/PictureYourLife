@@ -9,13 +9,13 @@ This project was PHP with React.
 ## Available Scripts
 
 1. Create react project
-### `npx create-react-app`
+    ### `npx create-react-app`
 
 2. install package
-### `npm install axios`
+    ### `npm install axios`
 
 3. In the project directory, you can run:
-### `npm start`
+    ### `npm start`
 
 # ![PURLHome](https://user-images.githubusercontent.com/107653868/209731541-1006758f-850c-45df-80fc-d8f8ba3b630a.png)
 # Picture Your Life
