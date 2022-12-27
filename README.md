@@ -1,23 +1,20 @@
-<!-- React-router-dom -->
-<!-- JQuery -->
-
 # Picture UR Life Project
 This project was PHP with React.
 
+# ![PURLHome](https://user-images.githubusercontent.com/107653868/209731541-1006758f-850c-45df-80fc-d8f8ba3b630a.png)
 
 
 ## Available Scripts
 
 1. Create react project
-### `npx create-react-app`
+    ### `npx create-react-app`
 
 2. install package
-### `npm install axios`
+    ### `npm install axios`
 
 3. In the project directory, you can run:
-### `npm start`
+    ### `npm start`
 
-# ![PURLHome](https://user-images.githubusercontent.com/107653868/209731541-1006758f-850c-45df-80fc-d8f8ba3b630a.png)
 # Picture Your Life
 <table>
   <tr>
@@ -34,20 +31,14 @@ Here is a working live demo :
 
 ## Site
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+### Home page
+# ![PURLHome](https://user-images.githubusercontent.com/107653868/209731541-1006758f-850c-45df-80fc-d8f8ba3b630a.png)
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+### Main Post Page
+# ![PURLMainPostPage](https://user-images.githubusercontent.com/107653868/209731654-83bb5c3c-d203-47f8-9dd5-e905e5f08a18.png)
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-## Usage 
+### Post Detail page
+# ![PURLPostDetailPage](https://user-images.githubusercontent.com/107653868/209731713-40bab584-e568-403c-bab1-ff91a5c00cb6.png)
 
 ### Development
 Want to contribute? Great!
@@ -70,7 +61,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - [Mysql](https://en.wikipedia.org/wiki/MySQL) - MySQL is an open-source relational database management system (RDBMS)
 
 
-## Team
+## PURL Project Team 
 
 <table>
   <thead>
